@@ -1,0 +1,16 @@
+Hyperparameter Tuning Results
+==================================================
+
+Best Configuration: baseline
+Best Validation Accuracy: 0.9000
+Best Parameters: {'filters_1': 32, 'filters_2': 32, 'dense_units': 128, 'dropout_conv': 0.0, 'dropout_dense': 0.0, 'learning_rate': 0.001, 'batch_size': 32}
+
+All Results:
+baseline: 0.9000 (Gap: 0.0747)
+lr_medium: 0.9000 (Gap: 0.0637)
+dropout_medium: 0.9000 (Gap: 0.0487)
+filters_64: 0.9000 (Gap: 0.0862)
+dense_256: 0.9000 (Gap: 0.0588)
+lr_low: 0.8875 (Gap: 0.0152)
+dropout_light: 0.8875 (Gap: 0.0680)
+batch_16: 0.8875 (Gap: 0.0301)
