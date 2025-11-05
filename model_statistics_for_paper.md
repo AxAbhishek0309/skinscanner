@@ -1,4 +1,4 @@
-# Skin Cancer Detection Model - Performance Statistics for Research Paper
+  Skin Cancer Detection Model - Performance Statistics for Research Paper
 
 ## Dataset Statistics
 - **Total Training Images**: 300 images (150 benign, 150 malignant)
